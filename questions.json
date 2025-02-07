@@ -1,0 +1,323 @@
+[
+  {
+    "question": "« communiquer » vient du latin « communicare » qui veut dire :",
+    "choix": [
+      "Parler avec efficacité",
+      "Mettre ou avoir en commun",
+      "Exercer la rhétorique de Cicéron"
+    ],
+    "reponse": 2
+  },
+  {
+    "question": "Cocher la formule correcte :",
+    "choix": [
+      "Tout le monde sait parler, donc tout le monde sait communiquer",
+      "Cela dépend de son caractère. Si on est timide et réservé, on ne peut pas être un bon communicant.",
+      "Le communicant possède obligatoirement une personnalité extravertie."
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Quand l’enseignant répond publiquement à un étudiant dans un amphi, il s’agit de :",
+    "choix": [
+      "communication interpersonnelle",
+      "communication de masse",
+      "communication de groupe"
+    ],
+    "reponse": 2
+  },
+  {
+    "question": "Un exemple de communication interpersonnelle",
+    "choix": [
+      "un entretien de recrutement comportant le candidat, le responsable du service et la RH",
+      "une réunion de travail de deux collègues",
+      "un entretien professionnel où sont présents le salarié évalué et deux cadres qui ont confié des missions à ce salarié"
+    ],
+    "reponse": 2
+  },
+  {
+    "question": "Un processus de communication doit être composé",
+    "choix": [
+      "d'un public, un contexte de communication",
+      "d'un émetteur, un récepteur, un message, une forme de message",
+      "du désir de convaincre son interlocuteur"
+    ],
+    "reponse": 2
+  },
+  {
+    "question": "La difficulté de la communication de groupe, c’est :",
+    "choix": [
+      "les émotions plus importantes en groupe qu’à deux personnes",
+      "la difficulté des interactions simultanées",
+      "la timidité, la trace de la prise de parole en groupe et les potentiels conflits"
+    ],
+    "reponse": 2
+  },
+  {
+    "question": "La grille d'analyse de Lasswell analyse un message de communication",
+    "choix": [
+      "Ce sont des questions sur l'émetteur, le récepteur, le moyen et les attentes",
+      "Ce sont des préconisations pour améliorer l'attention du récepteur",
+      "Cette grille permet de classer les typologies de communcation"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "La para-langage, c’est :",
+    "choix": [
+      "les gestes qui accompagnent la parole",
+      "les paramètres de la voix (vitesse, débit, accentuation de la voix...)",
+      "la posture du corps"
+    ],
+    "reponse": 2
+  },
+  {
+    "question": "La communication kinésique, c’est :",
+    "choix": [
+      "l’ensemble des gestes, regards, postures, expressions de visage",
+      "un outil qui permet exclusivement d’exprimer ses émotions",
+      "une communication qui se base sur le toucher comme moyen d’expression"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "En marge de la communication verbale et non-verbale, un paramètre essentiel est :",
+    "choix": [
+      "La croyance dans son discours",
+      "La bonne prononciation des mots",
+      "La posture du corps"
+    ],
+    "reponse": 3
+  },
+  {
+    "question": "Cocher la définition exacte de « culture d’entreprise » :",
+    "choix": [
+      "C’est la politique de l’entreprise en faveur des activités extra-professionnelles, comme le mécénat ou le sponsoring",
+      "C’est le contexte culturel du pays d’où est originaire une entreprise",
+      "C’est l’image d’une entreprise"
+    ],
+    "reponse": 3
+  },
+  {
+    "question": "L’« objectif conatif » d’un message d’entreprise, c’est :",
+    "choix": [
+      "d’utiliser les émotions pour installer l’image d’une entreprise",
+      "de tenter de faire passer un message cognitif, c’est-à-dire une information essentielle sur l’entreprise",
+      "d’intégrer le récepteur dans une communauté"
+    ],
+    "reponse": 3
+  },
+  {
+    "question": "Dans la vidéo « Uber, avancer avec vous », l’objectif principal de communication était :",
+    "choix": [
+      "faire de la publicité pour l’offre de service VTC",
+      "diffuser une image voulue plus positive, dégradée par l’actualité",
+      "insister sur la valeur de diversité en montrant des profils de conducteurs VTC"
+    ],
+    "reponse": 2
+  },
+  {
+    "question": "Parmi les valeurs d’entreprise au top 5 (chiffres 2017) étudiés en cours, on trouve le « challenge ».",
+    "choix": ["VRAI", "FAUX"],
+    "reponse": 1
+  },
+  {
+    "question": "La communcation externe cible",
+    "choix": [
+      "Les banques et les institutions financières",
+      "Les candidats pour le recrutement",
+      "Les prospects commerciaux"
+    ],
+    "reponse": 2
+  },
+  {
+    "question": "«verba volant, scripta manent», citation latine signifie",
+    "choix": [
+      "Ils veulent des mots, ils nient les écrits",
+      "Il faut placer son verba au bon endroit",
+      "Les mots volents, les écrits restent"
+    ],
+    "reponse": 3
+  },
+  {
+    "question": "Le compte rendu de réunion",
+    "choix": [
+      "c'est un document informatif",
+      "c'est un document intéractif",
+      "c'est un document récapitulatif"
+    ],
+    "reponse": 3
+  },
+  {
+    "question": "Quel écrit opérationnel n'est pas un écrit informatif ?",
+    "choix": ["Le rapport", "La note de synthèse", "La note service"],
+    "reponse": 1
+  },
+  {
+    "question": "La communcation écrite ascendante doit être particulièrement soignée car",
+    "choix": [
+      "Le personnel qui est sous votre responsabilité ne vous accordera pas de crédibilité si vous faîtes des fautes de français",
+      "Il convient d'être courtois lorsqu'on s'adresse à son manager",
+      "Un bon mail doit être concis car il est souvent renvoyé vers beaucoup d'autres collègues"
+    ],
+    "reponse": 2
+  },
+  {
+    "question": "Un EP, comme celui visionné en cours, est",
+    "choix": [
+      "une réunion de travail",
+      "un conflit au bureau",
+      "une évaluation du manager"
+    ],
+    "reponse": 3
+  },
+  {
+    "question": "Les 4 axes d'une communcation interpersonnelle réussie",
+    "choix": [
+      "Le contenu pertinent, le sourir, la politese, les questions",
+      "Le contenu, l'échange instantané, l'interraction permanente, la relation",
+      "Le contenu, le regard, la réponse pertinente, l'empathie"
+    ],
+    "reponse": 2
+  },
+  {
+    "question": "Pour présenter un powerpoint",
+    "choix": [
+      "je récite les chiffres et les informations sans lire les slides",
+      "je développe une argumentation, c'est-à-dire je commente les données du powerpoint",
+      "je me tiens sur le côté et je regarde le public"
+    ],
+    "reponse": 2
+  },
+  {
+    "question": "Une note de service sert à",
+    "choix": [
+      "faire le point sur un thème donné, un dossier professionnel à partir d'une documentation à analyser",
+      "diffuser les informations générales sur l'entreprise",
+      "transmettre des directives, des ordres à exécuter pour une catégorie de salariés"
+    ],
+    "reponse": 3
+  },
+  {
+    "question": "Dans le cas Roswel Automotive, nous avons compris que lorsqu'on a commis une erreur professionnelle",
+    "choix": [
+      "il faut analyser la situation et adopter une stratégie de communication (hiérarchie ou pas) et venir avec des solutions validées",
+      "il faut informer le client et son patron afin de reconnaître sa faute le plus rapidement possible",
+      "il faut être humble, s'excuser et laisse la colère de l'interlocuteur se tasser avant de parler à son tour"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "La CNV de Marshall Rosenberg signifie",
+    "choix": [
+      "Communication Non Verbale",
+      "Communcation Non Violente",
+      "Communication Naturelle Valorisable"
+    ],
+    "reponse": 2
+  },
+  {
+    "question": "L'écoute active, c'est",
+    "choix": [
+      "parler tout en écoutant les réponses et les échanges qui se passent dans la réunion",
+      "ne pas parler afin de mieux écouter",
+      "faire parler l'autre en écoutant attentivement pour préparer sa réponse"
+    ],
+    "reponse": 3
+  },
+  {
+    "question": "En comunication interpersonnelle, mon contenu doit intégrer des concessions, c'est-à-dire que",
+    "choix": [
+      "je renonce à mettre en avant certaines de mes idées",
+      "je donne raison à mon interlocuteur juste avant de mettre en avant mon idée",
+      "j'accepte les idées de mon interlocuteur pour ne pas bloquer la discussion"
+    ],
+    "reponse": 2
+  },
+  {
+    "question": "Dans le cadre de la CNV, on utilise la OSBD, qui signifie",
+    "choix": [
+      "Observation, Sentiment, Besoin, Demande",
+      "Observation, Salutation, Besoin, Décision",
+      "Observation, Salutation, Besoin, Déclaration"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Les 3 premières causes de souffrance au travail sont",
+    "choix": [
+      "le manque de reconnaissance, l'organisation défaillante et la pression sur les résultats",
+      "l'excès de travail, le stress, le harcèlement",
+      "le sexisme, la pénibilité, la rémunération insuffisante"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Avec le teste TKI réalisé en classe, nous avons identifié 5 types de comportement, classés selon 2 axes",
+    "choix": [
+      "l'acceptation et le challenge",
+      "l'assertivité et la coopération",
+      "la combativité et le renoncement"
+    ],
+    "reponse": 2
+  },
+  {
+    "question": "Parmi les différents types de communication, la situation la plus complexe à maîtriser, c'est",
+    "choix": [
+      "de prendre la parole devant un vaste public",
+      "improviser son discours et ses réponses dans des réunions comprenant beaucoup d'interlocuteurs",
+      "l'entretien de recrutement"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Quand je parle à un collègue de mon âge à la cantine de l'entreprise, je suis en situation professionelle",
+    "choix": [
+      "Vrai",
+      "Faux",
+      "Cela dépend du collègue, si c'est un proche ou pas"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Qu'est-ce qu'un EP ?",
+    "choix": [
+      "un Entretient Professionnel avec son manager sur un base souvent annuelle",
+      "un Entretien Poste pour expliquer au salarié récemment recruté le contenu de son poste",
+      "un Entretien de Pilotage, première réunion pour lancer son projet"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "La communication corporate cible",
+    "choix": [
+      "les clients et les prospects",
+      "uniquement les salariés de l'entreprise",
+      "les salariés de l'entreprise mais également les candidats, les banques et les institutions"
+    ],
+    "reponse": 3
+  },
+  {
+    "question": "La note de synthèse est un document professionnel pour une communication",
+    "choix": ["ascendate", "descendate", "transversale"],
+    "reponse": 3
+  },
+  {
+    "question": "Dans une entreprise concevant des produits industriels ou des services informatiques, la communication business doit bien mettre en avant le prix fixe des prestations",
+    "choix": [
+      "Non, car il faut d'abord définir un cahier des charges favorable au client et profitable pour l'entreprise",
+      "C'est vrai, il ne faut pas perdre du temps avec des clients qui n'ont pas le budget nécessaire pour travailler avec notre entreprise",
+      "C'est vrai, nous ne sommes pas dans un bazar et les prix doivent être affichés et ne sont pas"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Lorsque je rédige un courrier professionnel, pour une réclamation par exemple,",
+    "choix": [
+      "je dois donner les faits et une date limite de réponse ou de plan d'action",
+      "je dois exercer une pression, adopter un ton menaçant et chiffrer la sanction financière pour faire peur",
+      "vue la gravité des faits et les conséquences sur mon activité, j'évite de mettre la formule finale de type « Je vous prie d'agréer l'expression de mes salutations distinguées »"
+    ],
+    "reponse": 1
+  }
+]
