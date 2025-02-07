@@ -24,7 +24,7 @@
       "communication de masse",
       "communication de groupe"
     ],
-    "reponse": 2
+    "reponse": 3
   },
   {
     "question": "Un exemple de communication interpersonnelle",
@@ -52,6 +52,15 @@
       "la timidité, la trace de la prise de parole en groupe et les potentiels conflits"
     ],
     "reponse": 2
+  },
+  {
+    "question": "PNL est l'abbréviation de",
+    "choix": [
+      "Programmation Neuro Linguistique",
+      "Programmation Non Linéaire",
+      "Parler Nihilo Lorem"
+    ],
+    "reponse": 1
   },
   {
     "question": "La grille d'analyse de Lasswell analyse un message de communication",
@@ -119,7 +128,7 @@
   {
     "question": "Parmi les valeurs d’entreprise au top 5 (chiffres 2017) étudiés en cours, on trouve le « challenge ».",
     "choix": ["VRAI", "FAUX"],
-    "reponse": 1
+    "reponse": 2
   },
   {
     "question": "La communcation externe cible",
@@ -128,7 +137,7 @@
       "Les candidats pour le recrutement",
       "Les prospects commerciaux"
     ],
-    "reponse": 2
+    "reponse": 1
   },
   {
     "question": "«verba volant, scripta manent», citation latine signifie",
