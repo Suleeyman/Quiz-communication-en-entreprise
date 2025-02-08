@@ -24,7 +24,7 @@
       "communication de masse",
       "communication de groupe"
     ],
-    "reponse": 3
+    "reponse": 2
   },
   {
     "question": "Un exemple de communication interpersonnelle",
@@ -96,7 +96,7 @@
       "La bonne prononciation des mots",
       "La posture du corps"
     ],
-    "reponse": 3
+    "reponse": 1
   },
   {
     "question": "Cocher la définition exacte de « culture d’entreprise » :",
@@ -131,10 +131,10 @@
     "reponse": 2
   },
   {
-    "question": "La communcation externe cible",
+    "question": "La communication externe corporate cible",
     "choix": [
       "Les banques et les institutions financières",
-      "Les candidats pour le recrutement",
+      "Les évènements",
       "Les prospects commerciaux"
     ],
     "reponse": 1
@@ -277,7 +277,7 @@
       "improviser son discours et ses réponses dans des réunions comprenant beaucoup d'interlocuteurs",
       "l'entretien de recrutement"
     ],
-    "reponse": 1
+    "reponse": 2
   },
   {
     "question": "Quand je parle à un collègue de mon âge à la cantine de l'entreprise, je suis en situation professionelle",
@@ -308,15 +308,15 @@
   },
   {
     "question": "La note de synthèse est un document professionnel pour une communication",
-    "choix": ["ascendate", "descendate", "transversale"],
-    "reponse": 3
+    "choix": ["ascendante", "descendate", "transversale"],
+    "reponse": 1
   },
   {
     "question": "Dans une entreprise concevant des produits industriels ou des services informatiques, la communication business doit bien mettre en avant le prix fixe des prestations",
     "choix": [
       "Non, car il faut d'abord définir un cahier des charges favorable au client et profitable pour l'entreprise",
       "C'est vrai, il ne faut pas perdre du temps avec des clients qui n'ont pas le budget nécessaire pour travailler avec notre entreprise",
-      "C'est vrai, nous ne sommes pas dans un bazar et les prix doivent être affichés et ne sont pas"
+      "C'est vrai, nous ne sommes pas dans un bazar et les prix doivent être affichés et ne sont pas négociables"
     ],
     "reponse": 1
   },
@@ -326,6 +326,15 @@
       "je dois donner les faits et une date limite de réponse ou de plan d'action",
       "je dois exercer une pression, adopter un ton menaçant et chiffrer la sanction financière pour faire peur",
       "vue la gravité des faits et les conséquences sur mon activité, j'évite de mettre la formule finale de type « Je vous prie d'agréer l'expression de mes salutations distinguées »"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Lorsque j’ai commis une grave erreur ou une action ayant des conséquences financières lourdes, comme Hans Kilman dans le cas Roswel, je dois réfléchir attentivement avant d’écrire et décider de",
+    "choix": [
+      "La nécessité d’informer mon chef, même si ce dernier risque de me sanctionner",
+      "Ne rien dire à mon chef et tenter de débrouiller moi-même la situation. Je suis un cadre responsable et je dois régler les problèmes en autonomie",
+      "Ne rien écrire du tout pour ne pas m’engager personnellement et parler uniquement au téléphone"
     ],
     "reponse": 1
   }
