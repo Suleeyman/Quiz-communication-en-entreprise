@@ -24,7 +24,7 @@
       "communication de masse",
       "communication de groupe"
     ],
-    "reponse": 2
+    "reponse": 3
   },
   {
     "question": "Un exemple de communication interpersonnelle",
@@ -337,5 +337,14 @@
       "Ne rien écrire du tout pour ne pas m’engager personnellement et parler uniquement au téléphone"
     ],
     "reponse": 1
+  },
+  {
+    "question": "Parmi les questions opérationnels informatifs, on trouve",
+    "choix": [
+      "La note de service, le télétravail par visio, le courrier, le mail",
+      "Le téléphone, la liste de contrôle, la réunion, la vidéo d'information",
+      "La note de service, la liste de contrôle, le compte rendu, le rapport"
+    ],
+    "reponse": 3
   }
 ]
